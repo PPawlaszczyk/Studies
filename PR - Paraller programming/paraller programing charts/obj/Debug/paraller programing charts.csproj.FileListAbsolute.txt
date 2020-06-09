@@ -1,0 +1,33 @@
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\paraller programing charts.exe.config
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\paraller programing charts.exe
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\paraller programing charts.pdb
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\NCalc.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\ZedGraph.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\ZedGraph.xml
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.csprojAssemblyReference.cache
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\obj\Debug\paraller_programing_charts.Form1.resources
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\obj\Debug\paraller_programing_charts.Properties.Resources.resources
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.csproj.GenerateResource.cache
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.csproj.CoreCompileInputs.cache
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.csproj.CopyComplete
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.exe
+C:\Users\Dazzyl\source\repos\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.pdb
+C:\Users\Dazzyl\Desktop\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.csprojAssemblyReference.cache
+C:\Users\Dazzyl\Desktop\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.exe
+C:\Users\Dazzyl\Desktop\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.pdb
+C:\Users\Dazzyl\Desktop\wersja 2\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.csprojAssemblyReference.cache
+C:\Users\Dazzyl\Desktop\wersja 2\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.exe
+C:\Users\Dazzyl\Desktop\wersja 2\paraller programing charts\paraller programing charts\obj\Debug\paraller programing charts.pdb
